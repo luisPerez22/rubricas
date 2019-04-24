@@ -1,0 +1,12 @@
+Descripción
+
+El proyecto FTMonoUsuario descarga automáticamente del servidor tres archivos  JPG hacia el cliente.
+
+Pasos para su Ejecución
+
+1. Ejecutar el servidor.
+2. Asegurarse que la carpeta Descargas este vacía, lo anterior para comprobar que en realidad descarga los tres archivos. 
+3. Ejecutar el cliente
+4. Comprobar que los archivos se descargaron.
+
+
